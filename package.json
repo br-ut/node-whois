@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjr265/node-whois"
+    "url": "git:https://github.com/br-ut/node-whois.git"
   },
   "keywords": [
     "whois"
@@ -21,9 +21,9 @@
   "author": "Mahmud Ridwan <m@hjr265.me>",
   "license": "FreeBSD",
   "bugs": {
-    "url": "https://github.com/hjr265/node-whois/issues"
+    "url": "https://github.com/br-ut/node-whois/issues"
   },
-  "homepage": "https://github.com/hjr265/node-whois",
+  "homepage": "https://github.com/br-ut/node-whois",
   "devDependencies": {
     "coffeescript": "^2.5.1",
     "mocha": "^8.1.1"
